@@ -20,11 +20,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Focus-Data%20%26%20Cloud%20Architecture-00ff9d?style=flat-square&labelColor=0a0f1a"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Springfield%2C%20Virginia-00d4ff?style=flat-square&labelColor=0a0f1a"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Seattle%2C%20WA%20-00d4ff?style=flat-square&labelColor=0a0f1a"/>
   &nbsp;
   <img src="https://img.shields.io/badge/%E2%9A%A1%20Experience-12%2B%20Years-a855f7?style=flat-square&labelColor=0a0f1a"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-muh.atif690%40gmail.com-f59e0b?style=flat-square&labelColor=0a0f1a"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-khuram.s.data%40gmail.com-f59e0b?style=flat-square&labelColor=0a0f1a"/>
   &nbsp;
 <img src="https://hits.sh/github.com/muhammadatif690.svg?style=flat-square&label=Profile%20Views&color=00d4ff&labelColor=0a0f1a"/></div>
 
