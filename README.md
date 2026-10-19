@@ -450,8 +450,8 @@ class KhuramSindhu:
 ## 🌐 Khuram Sindhu's Data & Cloud Engineering Journey
 
 ```text
-2014 ──► PBG
-          ETL & Data Warehouse Engineer
+2015 ──► Analytics8
+          Data Engineer
           │
           │   Python · SQL · Enterprise ETL/ELT
           │   6+ source types · Transactional + CRM + Payment Data
@@ -459,8 +459,8 @@ class KhuramSindhu:
           │   Kimball Modeling across 8+ business entities
           │   SCD Type 2 · Reconciliation · Data Quality
           │
-2017 ──► Banner Health
-          Cloud Engineer
+2017 ──► Tredence
+          Senior Data Engineer
           │
           │   AWS EKS · Docker · Kubernetes · Terraform
           │   IaC across 6 core infrastructure domains
@@ -469,8 +469,8 @@ class KhuramSindhu:
           │   Security architecture across 5 layers
           │   AWS + Azure landing-zone architecture
           │
-2020 ──► NICE
-          Senior Data Engineer
+2019 ──► DataArt
+          Lead Data Engineer
           │
           │   Kafka · Spark · PySpark · Databricks
           │   Batch + real-time pipelines across 5 financial domains
@@ -479,7 +479,7 @@ class KhuramSindhu:
           │   DataOps · Observability · CI/CD · Recovery
           │   Engineering standards + technical mentoring
           │
-2023 ──► Omnicell
+2023 ──► Shirley Ryan AbilityLab
           Data Solution Architect  ◄── CURRENT
               │
               │   Patient 360 across 6+ healthcare domains
@@ -496,7 +496,7 @@ class KhuramSindhu:
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**  
-Punjab University · 2014
+Punjab University · 2011
 
 ---
 
@@ -506,9 +506,9 @@ Punjab University · 2014
 
 | 🏅 Certification | 🏢 Issuer | 📅 Status |
 |:----------------|:---------|:---------|
-| **Databricks Certified Data Engineer Associate** | Databricks | ✅ Certified |
-| **Microsoft Fabric Data Engineer Associate** | Microsoft | ✅ Certified |
-| **AWS Certified Data Engineer Associate** | Amazon Web Services | ✅ Certified |
+| **Databricks Certified Data Engineer** | Databricks | ✅ Certified |
+| **Microsoft Fabric Data Engineer** | Microsoft | ✅ Certified |
+| **AWS Certified Data Engineer** | Amazon Web Services | ✅ Certified |
 | **AWS Well-Architected Framework** | Amazon Web Services | ✅ Completed |
 | **Snowflake SnowPro Certification** | Snowflake | ✅ Certified |
 
