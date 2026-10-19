@@ -104,9 +104,11 @@ class KhuramSindhu:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1a)](mailto:muh.atif690@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1a)](mailto:khuram.s.data@gmail.com
+)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f1a)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-121011?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f1a)](https://github.com/s-khuram
+)
 
 </div>
 
@@ -532,11 +534,12 @@ Punjab University · 2011
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1a)](mailto:muh.atif690@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1a)](mailto:khuram.s.data@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1a)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1a)](https://www.linkedin.com/in/khuram-sindhu-2a024241a/
+)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=muhmmadatif690&label=Profile%20Views&color=00d4ff&style=flat-square&labelColor=0a0f1a)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=muhmmadatif690&label=Profile%20Views&color=00d4ff&style=flat-square&labelColor=0a0f1a)](https://github.com/s-khuram)
 
 </div>
 
